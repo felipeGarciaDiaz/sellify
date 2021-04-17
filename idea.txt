@@ -1,0 +1,21 @@
+w
+Sell anything is a website, where anyone can create there own page to sell stuff. 
+
+
+LIke a better version of craigslist
+
+
+Main page prompts you to create a "store"
+
+once you create store you get redirected to "create store" where you get to decide what your selling in a block, if you wish to add something else simply press the + button to 
+create another block
+
+Once a store is created it gets indexed in the site for people to visit
+
+no accounts needs to be made
+
+sellers add there email and or phone # and buyers can contact them regarding an order
+
+
+
+
